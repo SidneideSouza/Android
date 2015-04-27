@@ -1,98 +1,98 @@
 [{
         "titulo": "Conjunto de Xícaras",
         "imagem": "http://krafti.com.br/android/img_produtos/conjunto_de_xicaras.jpg",
-        "qtde": 25,
+        "quantidade": 25,
         "valor": 54.99,
         "categoria": ["Casa", "Presente"]
     },
     {
         "titulo": "Conjunto de Vasos",
         "imagem": "http://krafti.com.br/android/img_produtos/conjunto_de_vasos.jpg",
-        "qtde": 8,
+        "quantidade": 8,
         "valor": 89.99,
         "categoria": ["Presente", "Decoração", "Arte"]
     },
     {
         "titulo": "Vaso formato xícara",
         "imagem": "http://krafti.com.br/android/img_produtos/vaso_formato_xicara.jpg",
-        "qtde": 57,
+        "quantidade": 57,
         "valor": 25.90,
         "categoria": ["Decoração", "Presente"]
     },
     {
         "titulo": "Sapato alto Coveteur",
         "imagem": "http://krafti.com.br/android/img_produtos/sapato_alto_coverter.jpg",
-        "qtde": 145,
+        "quantidade": 145,
         "valor": 259.90,
         "categoria": ["Calçados", "Presente"]
     },
     {
         "titulo": "Óleo Alora",
         "imagem": "http://krafti.com.br/android/img_produtos/oleo_alora.jpg",
-        "qtde": 80,
+        "quantidade": 80,
         "valor": 19.99,
         "categoria": ["Presente", "Beleza", "Loções"]
     },
     {
         "titulo": "Carrinhos Monster Trucks",
         "imagem": "http://krafti.com.br/android/img_produtos/carrinho_monster.jpg",
-        "qtde": 12,
+        "quantidade": 12,
         "valor": 25.90,
         "categoria": ["Infantil", "Presente", "Brinquedos"]
     },
     {
         "titulo": "Sapato Pandeme",
         "imagem": "http://krafti.com.br/android/img_produtos/sapatilha_panda.jpg",
-        "qtde": 58,
+        "quantidade": 58,
         "valor": 299.90,
         "categoria": ["Calçados", "Presente"]
     },
     {
         "titulo": "Blusa Coveteurs",
         "imagem": "http://krafti.com.br/android/img_produtos/blusa_coveteurs.jpg",
-        "qtde": 160,
+        "quantidade": 160,
         "valor": 45.00,
         "categoria": ["Presente", "Roupas"]
     },
     {
         "titulo": "Sapato Crystal",
         "imagem": "http://krafti.com.br/android/img_produtos/sapato_cristal.jpg",
-        "qtde": 126,
+        "quantidade": 126,
         "valor": 429.90,
         "categoria": ["Calçados", "Presente", "Feminino"]
     },
     {
         "titulo": "Batom Stila",
         "imagem": "http://krafti.com.br/android/img_produtos/batom_stila.jpg",
-        "qtde": 8,
+        "quantidade": 8,
         "valor": 99.90,
         "categoria": ["Feminino", "Presente", "Maquiagem"]
     },
     {
         "titulo": "Bonequos Miniatura",
         "imagem": "http://krafti.com.br/android/img_produtos/bonecos_miniatura.jpg",
-        "qtde": 10,
+        "quantidade": 10,
         "valor": 45.00,
         "categoria": ["Presente", "Brinquedos"]
     },
     {
         "titulo": "Bolsa HoodLove",
         "imagem": "http://krafti.com.br/android/img_produtos/bolsa_hooflove.jpg",
-        "qtde": 64,
+        "quantidade": 64,
         "valor": 500.90,
         "categoria": ["Bolsas", "Presente", "Feminino"]
     },
     {
         "titulo": "Toalha Hermes-Paris",
         "imagem": "http://krafti.com.br/android/img_produtos/toalha_hermes.jpg",
-        "qtde": 51,
+        "quantidade": 51,
         "valor": 99.90,
         "categoria": ["Banho", "Presente"]
     },
     {
         "titulo": "Livro Fox Catcher",
         "imagem": "http://krafti.com.br/android/img_produtos/livro.jpg",
-        "qtde": 10,
+        "quantidade": 10,
         "valor": 55.00,
         "categoria": ["Presente", "Livros"]
     }]
